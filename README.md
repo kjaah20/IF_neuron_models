@@ -5,5 +5,5 @@ Quadratic IF neuron model
 
 Izhekivich neuron model
 
-
+More information in the following file: README_IF_models.pdf
 
